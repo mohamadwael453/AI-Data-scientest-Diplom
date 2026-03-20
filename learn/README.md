@@ -6,7 +6,7 @@ This folder contains all my learning materials organized by topic during my AI &
 
 | Folder | Topic |
 |---|---|
-| python/ | Python programming from basics to advanced |
+| python | Python programming from basics to advanced |
 
 > More topics will be added as the course progresses.
 
