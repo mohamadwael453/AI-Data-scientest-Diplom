@@ -17,6 +17,7 @@ This folder contains my Python lecture notebooks covered during my AI & Data Sci
 ## Tools
 - Jupyter Notebook
 - Python 3
+- Google Colab
 
 ## Author
 Mohamed Eid — AI & Data Science Diploma
