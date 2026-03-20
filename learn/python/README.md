@@ -1,24 +1,41 @@
-# Python Learning Notes
+# 🐍 Python Learning Notes
 
-This folder contains my Python lecture notebooks covered during my AI & Data Science diploma.
+This folder contains my Python lecture notebooks covered during my AI & Data Science diploma.  
+Topics progress from fundamentals to advanced concepts.
 
-## Topics Covered So Far
+---
 
-| Lecture | Topic |
-|---|---|
-| Lec 2 | Variables |
-| Lec 3 | Strings |
-| Lec 4 | Conditionals |
-| Lec 5 | Control Flow |
-| Lec 6 | Loops & Lists |
+## 📁 Lectures
+
+| Lecture | Topic | Status |
+|---|---|---|
+| Lec 2 | Variables | ✅ Done |
+| Lec 3 | Strings | ✅ Done |
+| Lec 4 | Conditionals | ✅ Done |
+| Lec 5 | Control Flow | ✅ Done |
+| Lec 6 | Loops & Lists | ✅ Done |
 
 > More lectures will be added as the course progresses.
 
-## Tools
-- Jupyter Notebook
-- Python 3
-- Google Colab
+---
 
-## Author
-Mohamed Eid — AI & Data Science Diploma
-```  
+## 🛠️ Tools & Environment
+
+| Tool | Purpose |
+|---|---|
+| VS Code | Primary code editor |
+| Jupyter Notebook | Interactive notebooks |
+| Google Colab | Cloud-based execution |
+| Python 3 | Core programming language |
+
+---
+
+## 👤 Author
+
+**Mohamed Eid**  
+Electrical Power & Energy Systems Engineering Student  
+AI & Data Science Diploma
+
+---
+
+> ⭐ This folder is actively updated with new lectures regularly.
