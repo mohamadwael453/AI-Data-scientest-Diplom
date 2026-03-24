@@ -97,7 +97,7 @@ AI & Data Science Diploma
 
 ## 📬 Connect With Me
 
-*(You can add LinkedIn or GitHub profile here later)*
+https://github.com/mohamadwael453
 
 ---
 
