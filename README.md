@@ -22,21 +22,36 @@ The goal is to build a strong foundation and track my growth step by step.
 
 | Section        | Description                                              |
 | -------------- | -------------------------------------------------------- |
-| 📚 Learn       | Structured topics, Coding exercises, problem-solving, and skill building |
+| 📚 Learn       | Structured topics, Coding exercises, problem-solving, and skill building|
 | 📝 Assignments | Diploma tasks, solutions, and submitted work             |
-| 💻 Practice    | Coding exercises, problem-solving, and skill building    |
+| 📊 Projects    | Mini-projects, real-world applications, and experiments  |
 | 📂 Resources   | Helpful materials, references, and external links        |
 
 ---
 
 ## 🛣️ Learning Roadmap
 
+| Stage | Topic                        | Status         |
+| ----- | ---------------------------- | -------------- |
+| 1     | Python Programming           | 🔄 In Progress |
+| 2     | Libraries (NumPy, Pandas)    | ⏳ Planned      |
+| 3     | Mathematics for Data Science | ⏳ Planned      |
+| 4     | Data Visualization           | ⏳ Planned      |
+| 5     | Data Analysis                | ⏳ Planned      |
+| 6     | Machine Learning             | ⏳ Planned      |
+| 7     | Deep Learning                | ⏳ Planned      |
+
+---
+
+### ✅ Progress Tracking
+
 * [x] Python Programming
-* [ ] Data Analysis (Pandas, NumPy)
-* [ ] Data Visualization (Matplotlib, Seaborn)
+* [ ] Libraries (NumPy, Pandas)
+* [ ] Mathematics for Data Science
+* [ ] Data Visualization
+* [ ] Data Analysis
 * [ ] Machine Learning
 * [ ] Deep Learning
-* [ ] Neural Networks
 
 ---
 
