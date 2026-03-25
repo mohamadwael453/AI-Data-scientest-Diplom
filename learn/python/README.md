@@ -33,8 +33,8 @@ Topics progress from fundamentals to advanced concepts.
 ## 👤 Author
 
 **Mohamed Eid**  
-Electrical Power & Energy Systems Engineering Student  
-AI & Data Science Diploma
+Electrical Power & Energy Systems Engineering Student ⚡  
+AI & Data Science Enthusiast 🤖
 
 ---
 
