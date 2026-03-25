@@ -90,8 +90,10 @@ This repository reflects my commitment to continuous improvement and real unders
 ## 👤 Author
 
 **Mohamed Eid**
+
 Electrical Power & Energy Systems Engineering Student
-AI & Data Science Diploma
+
+AI & Data Science Diploma Learner
 
 ---
 
