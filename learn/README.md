@@ -40,8 +40,8 @@ Each subfolder represents a core topic with organized lecture notebooks and note
 ## 👤 Author
 
 **Mohamed Eid**  
-Electrical Power & Energy Systems Engineering Student  
-AI & Data Science Diploma  
+Electrical Power & Energy Systems Engineering Student ⚡  
+AI & Data Science Enthusiast 🤖
 
 ---
 
