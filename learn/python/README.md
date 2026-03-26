@@ -8,12 +8,14 @@ Topics progress from fundamentals to advanced concepts.
 ## 📁 Lectures
 
 | Lecture | Topic | Status |
-|---|---|---|
-| [Lec 2](./lec2(variable))  | Variables | ✅ Done |
-| Lec 3 | Strings | ✅ Done |
-| Lec 4 | Conditionals | ✅ Done |
-| Lec 5 | Control Flow | ✅ Done |
-| Lec 6 | Loops & Lists | ✅ Done |
+|--------|------|--------|
+| [Lec 2](./lec%202(Variable).ipynb) | Variables | ✅ Done |
+| [Lec 3](./lec%203(string).ipynb) | Strings | ✅ Done |
+| [Lec 4](./Lec4(Conditional).ipynb) | Conditionals | ✅ Done |
+| [Lec 5](./lec5(Control%20flow).ipynb) | Control Flow | ✅ Done |
+| [Lec 6](./lec6(Loops%20&%20list).ipynb) | Loops & Lists | ✅ Done |
+| [Lec 7](./Lec7(Advanced%20loops%20&%20algorithms).ipynb) | Advanced Loops & Algorithms | ✅ Done |
+| [Lec 8](./Lec_8(Functions_&_Modular_Programming).ipynb) | Functions & Modular Programming | ✅ Done|
 
 > More lectures will be added as the course progresses.
 
