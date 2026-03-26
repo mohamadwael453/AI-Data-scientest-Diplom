@@ -9,7 +9,7 @@ Topics progress from fundamentals to advanced concepts.
 
 | Lecture | Topic | Status |
 |---|---|---|
-| [Lec 2](./lec 2(Variable)) | Variables | ✅ Done |
+| [Lec 2](./lec2(variable))  | Variables | ✅ Done |
 | Lec 3 | Strings | ✅ Done |
 | Lec 4 | Conditionals | ✅ Done |
 | Lec 5 | Control Flow | ✅ Done |
