@@ -9,7 +9,7 @@ Each subfolder represents a core topic with organized lecture notebooks and note
 
 | Folder | Topic | Status |
 |---|---|---|
-| python | Python Programming | 🔄 In Progress |
+| python(./python) | Python Programming | 🔄 In Progress |
 
 > More topics will be added as the course progresses.
 
