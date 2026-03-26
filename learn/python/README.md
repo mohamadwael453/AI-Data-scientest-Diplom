@@ -11,7 +11,7 @@ Topics progress from fundamentals to advanced concepts.
 |--------|------|--------|
 | [Lec 2](./lec%202(Variable).ipynb) | Variables | ✅ Done |
 | [Lec 3](./lec%203(string).ipynb) | Strings | ✅ Done |
-| [lec4](./Lec4(Coditional).ipynb) | Conditionals | ✅ Done |
+| [lec 4](./Lec4(Coditional).ipynb) | Conditionals | ✅ Done |
 | [Lec 5](./lec5(Control%20flow).ipynb) | Control Flow | ✅ Done |
 | [Lec 6](./lec6(Loops%20&%20list).ipynb) | Loops & Lists | ✅ Done |
 | [Lec 7](./Lec7(Advanced%20loops%20&%20algorithms).ipynb) | Advanced Loops & Algorithms | ✅ Done |
