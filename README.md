@@ -45,13 +45,13 @@ The goal is to build a strong foundation and track my growth step by step.
 
 ### ✅ Progress Tracking
 
-* [x] Python Programming🔄
-* [ ] Libraries (NumPy, Pandas)⏳
-* [ ] Mathematics for Data Science⏳
-* [ ] Data Visualization⏳
-* [ ] Data Analysis⏳
-* [ ] Machine Learning⏳
-* [ ] Deep Learning⏳
+* [x] Python Programming 
+* [ ] Libraries (NumPy, Pandas)  
+* [ ] Mathematics for Data Science
+* [ ] Data Visualization
+* [ ] Data Analysis
+* [ ] Machine Learning
+* [ ] Deep Learning
 
 ---
 
