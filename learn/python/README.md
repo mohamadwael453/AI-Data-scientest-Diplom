@@ -16,7 +16,7 @@ Topics progress from fundamentals to advanced concepts.
 | [Lec 6](./lec6(Loops%20&%20list).ipynb) | Loops & Lists | ✅ Done |
 | [Lec 7](./Lec7(Advanced%20loops%20&%20algorithms).ipynb) | Advanced Loops & Algorithms | ✅ Done |
 | [Lec 8](./Lec_8(Functions_&_Modular_Programming).ipynb) | Functions & Modular Programming | ✅ Done|
-| [Lec 9](./Lec9.ipynb) | TBD | ⏳ Planned |
+| [Lec 9](./Lec9(Data_Containers).ipynb) | Data_Containers | ✅ Done |
 | [Lec 10](./Lec10.ipynb) | TBD | ⏳ Planned |
 
 > More lectures will be added as the course progresses.
