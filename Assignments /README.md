@@ -37,6 +37,8 @@ Each assignment focuses on applying concepts learned in lectures through practic
 **Mohamed Eid**
 Electrical Power & Energy Systems Engineering Student ⚡
 AI & Data Science Enthusiast 🤖
+---
 
-⭐ This folder is actively updated with new assignments regularly.
+> ⭐ This repository is actively maintained and updated with new content regularly.
+
 
