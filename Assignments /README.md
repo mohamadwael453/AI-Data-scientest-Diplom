@@ -39,6 +39,6 @@ Electrical Power & Energy Systems Engineering Student ⚡
 AI & Data Science Enthusiast 🤖
 ---
 
-> ⭐ This repository is actively maintained and updated with new content regularly.
+> ⭐ This folder is actively updated with new assignments regularly.
 
 
