@@ -17,7 +17,17 @@ Topics progress from fundamentals to advanced concepts.
 | [Lec 7](./Lec7(Advanced%20loops%20&%20algorithms).ipynb) | Advanced Loops & Algorithms | ✅ Done |
 | [Lec 8](./Lec_8(Functions_%26_Modular_Programming)_.ipynb) | Functions & Modular Programming | ✅ Done |
 | [Lec 9](./Lec_9(Data_Containers).ipynb) | Data Containers | ✅ Done |
-| [Lec 10](./lec10.ipynb) | TBD | ⏳ Planned |
+| [Lec 10](./Lec10(Data_Stuctures_%26_Files).ipynb) | Data_Stuctures & Files | ✅ Done |
+| [Lec 11](./Lec11.ipynb) | TBD | ⏳ Planned |
+| [Lec 12](./Lec12.ipynb) | TBD | ⏳ Planned |
+| [Lec 13](./Lec13.ipynb) | TBD | ⏳ Planned |
+| [Lec 14](./Lec14.ipynb) | TBD | ⏳ Planned |
+| [Lec 15](./Lec15.ipynb) | TBD | ⏳ Planned |
+| [Lec 16](./Lec16.ipynb) | TBD | ⏳ Planned |
+| [Lec 17](./Lec17.ipynb) | TBD | ⏳ Planned |
+| [Lec 18](./Lec18.ipynb) | TBD | ⏳ Planned |
+| [Lec 19](./Lec19.ipynb) | TBD | ⏳ Planned |
+| [Lec 20](./Lec20.ipynb) | TBD | ⏳ Planned |
 
 
 > More lectures will be added as the course progresses.
