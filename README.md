@@ -25,7 +25,7 @@ The goal is to build a strong foundation and track my growth step by step.
 | 📚 [Learn](./learn)     | Structured topics and notes, Coding exercises, problem-solving, and skill-building |
 | 📝 [Assignments](./Assignments%20) | Diploma tasks, solutions, and submitted work             |
 | 💻 [Practice]   | Coding exercises |
-| 📊 [Projects]    | Mini-projects, real-world applications, and experiments  |
+| 📊 [Projects](./Project)    | Mini-projects, real-world applications, and experiments  |
 | 📂 Resources   | Helpful materials, references, and external links        |
 
 ---
