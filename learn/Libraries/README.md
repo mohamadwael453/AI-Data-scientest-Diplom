@@ -69,10 +69,9 @@ These libraries are fundamental for:
 
 ## 👤 Author
 
-**Mohamed Eid**
-Electrical Power & Energy Systems Engineering Student ⚡
+**Mohamed Eid**  
+Electrical Power & Energy Systems Engineering Student ⚡  
 AI & Data Science Enthusiast 🤖
-
 ---
 
 > ⭐ This section is actively updated with new libraries and progress.
