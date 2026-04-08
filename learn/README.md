@@ -19,7 +19,7 @@ Each subfolder represents a core topic with organized lecture notebooks and note
 ## 🛣️ Learning Roadmap
 
 - [x] Python
-- [ ] Libraries (NumPy, Pandas)
+- [] Libraries (NumPy, Pandas)
 - [ ] Mathematics for Data Science
 - [ ] Data Visualization (Matplotlib, Seaborn)
 - [ ] Data Analysis
