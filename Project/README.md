@@ -56,8 +56,8 @@ Each project focuses on applying concepts to real-world problems and building ha
 
 ## 👤 Author
 
-**Mohamed Eid**
-Electrical Power & Energy Systems Engineering Student ⚡
+**Mohamed Eid**  
+Electrical Power & Energy Systems Engineering Student ⚡  
 AI & Data Science Enthusiast 🤖
 
 ---
