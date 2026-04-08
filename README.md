@@ -35,12 +35,12 @@ The goal is to build a strong foundation and track my growth step by step.
 | Stage | Topic                        | Status         |
 | ----- | ---------------------------- | -------------- |
 | 1     | [Python Programming](./learn/python)          | 🔄 In Progress |
-| 2     | Libraries (NumPy, Pandas)    | ⏳ Planned      |
-| 3     | Mathematics for Data Science | ⏳ Planned      |
-| 4     | Data Visualization           | ⏳ Planned      |
-| 5     | Data Analysis                | ⏳ Planned      |
-| 6     | Machine Learning             | ⏳ Planned      |
-| 7     | Deep Learning                | ⏳ Planned      |
+| 2     | [Libraries (NumPy, Pandas)](./learn/Libraries)   | ⏳ Planned      |
+| 3     | [Mathematics for Data Science] | ⏳ Planned      |
+| 4     | [Data Visualization]           | ⏳ Planned      |
+| 5     | [Data Analysis]                | ⏳ Planned      |
+| 6     | [Machine Learning]             | ⏳ Planned      |
+| 7     | [Deep Learning]                | ⏳ Planned      |
 
 ---
 
