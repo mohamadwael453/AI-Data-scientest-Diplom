@@ -9,8 +9,8 @@ Each project focuses on applying concepts to real-world problems and building ha
 
 | Project   | Description                  | Status         |
 | --------- | ---------------------------- | -------------- |
-| Project 1 | Python OOP Project (Classes & Objects System) | 🔄 In Progress |
-| Project 2 | Data Analysis Project        | ⏳ Planned      |
+| Project 1 | Python OOP Project (Classes & Objects System) | ✅ Done |
+| Project 2 | Data Analysis Project        | 🔄 In Progress     |
 | Project 3 | Machine Learning Model       | ⏳ Planned      |
 | Project 4 | Data Visualization Dashboard | ⏳ Planned      |
 | Project 5 | Deep Learning Project        | ⏳ Planned      |
