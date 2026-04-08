@@ -21,16 +21,6 @@ Topics progress from fundamentals to advanced concepts.
 | [Lec 11](./Lec11(Exception%20Handling%20%26%20Exersices).ipynb) |Exception Handling & Exersices | ✅ Done  |
 | [Lec 12](./Lec12(OOP).ipynb) | Object-Oriented Programming   | ✅ Done |
 | [Lec 13](./Lec13.ipynb) | Object-Oriented Programmin Principles | ✅ Done |
-| [Lec 14](./Lec14.ipynb) | TBD | ⏳ Planned |
-| [Lec 15](./Lec15.ipynb) | TBD | ⏳ Planned |
-| [Lec 16](./Lec16.ipynb) | TBD | ⏳ Planned |
-| [Lec 17](./Lec17.ipynb) | TBD | ⏳ Planned |
-| [Lec 18](./Lec18.ipynb) | TBD | ⏳ Planned |
-| [Lec 19](./Lec19.ipynb) | TBD | ⏳ Planned |
-| [Lec 20](./Lec20.ipynb) | TBD | ⏳ Planned |
-
-
-> More lectures will be added as the course progresses.
 
 ---
 
@@ -52,5 +42,3 @@ Electrical Power & Energy Systems Engineering Student ⚡
 AI & Data Science Enthusiast 🤖
 
 ---
-
-> ⭐ This folder is actively updated with new lectures regularly.
