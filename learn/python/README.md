@@ -18,8 +18,8 @@ Topics progress from fundamentals to advanced concepts.
 | [Lec 8](./Lec_8(Functions_%26_Modular_Programming)_.ipynb) | Functions & Modular Programming | ✅ Done |
 | [Lec 9](./Lec_9(Data_Containers).ipynb) | Data Containers | ✅ Done |
 | [Lec 10](./Lec10(Data_Stuctures_%26_Files).ipynb) | Data Stuctures & Files | ✅ Done |
-| [Lec 11](./Lec11(Exception%20Handling%20%26%20Exersices).ipynb)) |Exception Handling & Exersices | ✅ Done  |
-| [Lec 12](./Lec12.ipynb) | TBD | ⏳ Planned |
+| [Lec 11](./Lec11(Exception%20Handling%20%26%20Exersices).ipynb) |Exception Handling & Exersices | ✅ Done  |
+| [Lec 12](./Lec12(OOP).ipynb) | Object-Oriented Programming   | ✅ Done |
 | [Lec 13](./Lec13.ipynb) | TBD | ⏳ Planned |
 | [Lec 14](./Lec14.ipynb) | TBD | ⏳ Planned |
 | [Lec 15](./Lec15.ipynb) | TBD | ⏳ Planned |
