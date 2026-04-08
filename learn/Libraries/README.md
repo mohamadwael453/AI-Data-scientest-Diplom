@@ -23,7 +23,7 @@ Currently, I am focusing on mastering core libraries used in data analysis and n
 
 | Lecture | Topic | Status |
 |--------|------|--------|
-| [Lec 14](./Lec14.ipynb) | TBD | ⏳ Planned |
+| [Lec 14](./Lec14.ipynb) | TBD | ✅ Done|
 | [Lec 15](./Lec15.ipynb) | TBD | ⏳ Planned |
 | [Lec 16](./Lec16.ipynb) | TBD | ⏳ Planned |
 | [Lec 17](./Lec17.ipynb) | TBD | ⏳ Planned |
