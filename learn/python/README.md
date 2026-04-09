@@ -20,7 +20,7 @@ Topics progress from fundamentals to advanced concepts.
 | [Lec 10](./Lec10(Data_Stuctures_%26_Files).ipynb) | Data Stuctures & Files | ✅ Done |
 | [Lec 11](./Lec11(Exception%20Handling%20%26%20Exersices).ipynb) |Exception Handling & Exersices | ✅ Done  |
 | [Lec 12](./Lec12(OOP).ipynb) | Object-Oriented Programming   | ✅ Done |
-| [Lec 13](./Lec13.ipynb) | Object-Oriented Programmin Principles | ✅ Done |
+| [Lec 13](./Lec13(OOP_Principles).ipynb) | Object-Oriented Programmin Principles | ✅ Done |
 
 ---
 
