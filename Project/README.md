@@ -7,9 +7,10 @@ Each project focuses on applying concepts to real-world problems and building ha
 
 ## 📂 Projects
 
+
 | Project   | Description                  | Status         |
 | --------- | ---------------------------- | -------------- |
-| Project 1 | Python OOP Project (Classes & Objects System) | ✅ Done |
+|[Project 1](./) | Student Academic Management System (Python OOP + Tkinter GUI) | ✅ Done |
 | Project 2 | Data Analysis Project        | 🔄 In Progress     |
 | Project 3 | Machine Learning Model       | ⏳ Planned      |
 | Project 4 | Data Visualization Dashboard | ⏳ Planned      |
