@@ -34,10 +34,10 @@ Each assignment focuses on applying concepts learned in lectures through practic
 
 ## 👤 Author
 
-**Mohamed Eid**
-Electrical Power & Energy Systems Engineering Student ⚡
+**Mohamed Eid**  
+Electrical Power & Energy Systems Engineering Student ⚡  
 AI & Data Science Enthusiast 🤖
----
+
 
 > ⭐ This folder is actively updated with new assignments regularly.
 
