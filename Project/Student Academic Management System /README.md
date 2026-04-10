@@ -148,10 +148,11 @@ Ideal for showcasing in:
 * Software development internships 🚀
 
 ---
+## 👤 Author
 
-## 👨‍💻 Author
-
-* Mohamed Wael
+**Mohamed Eid**  
+Electrical Power & Energy Systems Engineering Student ⚡  
+AI & Data Science Enthusiast 🤖
 
 ---
 
