@@ -10,7 +10,7 @@ Each project focuses on applying concepts to real-world problems and building ha
 
 | Project   | Description                  | Status         |
 | --------- | ---------------------------- | -------------- |
-|[Project 1](./Student%20Academic%20Management%20System%20) | Student Academic Management System (Python OOP + Tkinter GUI) | ✅ Done |
+|[Project 1](./Student-Academic-Management-System-Project/blob/215bd15776fb7ec5254961bfb004a03c67254d2f/README.md) | Student Academic Management System (Python OOP + Tkinter GUI) | ✅ Done |
 | Project 2 | Data Analysis Project        | 🔄 In Progress     |
 | Project 3 | Machine Learning Model       | ⏳ Planned      |
 | Project 4 | Data Visualization Dashboard | ⏳ Planned      |
