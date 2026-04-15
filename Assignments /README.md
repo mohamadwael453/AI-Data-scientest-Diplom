@@ -14,6 +14,7 @@ Each assignment focuses on applying concepts learned in lectures through practic
 | Assignment 3 | Functions & Modular Programming | ⏳ Planned      |
 | Assignment 4 | Data Structures                 | ⏳ Planned      |
 | Assignment 5 | Problem Solving                 | ⏳ Planned      |
+|Assignment 6 | NumPy Practice & Array Operations| ⏳ In Progress |
 
 ---
 
