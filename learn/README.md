@@ -10,8 +10,8 @@ Each subfolder represents a core topic with organized lecture notebooks and note
 | Folder | Topic | Status |
 |---|---|---|
 | [python](./python) | Python Programming | ✅ Done |
-| [Libraries](./Libraries) | libraries used in data analysis and numerical computing | 🔄 In Progress |
-| [Mathematics](./Mathematics) | Mathematics for AI & Data Science |🔄 In Progress |
+| [Libraries](./Libraries%20%26%20Mathematics) | libraries used in data analysis and numerical computing | 🔄 In Progress |
+| [Mathematics](./Libraries%20%26%20Mathematics) | Mathematics for AI & Data Science |🔄 In Progress |
 
 > More topics will be added as the course progresses.
 
