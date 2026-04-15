@@ -35,8 +35,8 @@ The goal is to build a strong foundation and track my growth step by step.
 | Stage | Topic                        | Status         |
 | ----- | ---------------------------- | -------------- |
 | 1     | [Python Programming](./learn/python)          | ✅ Done |
-| 2     | [Libraries (NumPy, Pandas)](./learn/Libraries)   | 🔄 In Progress     |
-| 3     | [Mathematics for Data Science](./learn/Mathematics) | 🔄 In Progress     |
+| 2     | [Libraries (NumPy, Pandas)](.learn/Libraries%20%26%20Mathematics)   | 🔄 In Progress     |
+| 3     | [Mathematics for Data Science](.learn/Libraries%20%26%20Mathematics)   | 🔄 In Progress     |
 | 4     | [Data Visualization]           | ⏳ Planned      |
 | 5     | [Data Analysis]                | ⏳ Planned      |
 | 6     | [Machine Learning]             | ⏳ Planned      |
