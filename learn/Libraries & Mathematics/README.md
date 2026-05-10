@@ -34,7 +34,7 @@ I am currently focused on building strong skills in data analysis, numerical com
 | Lecture | Topic                                         | Notebook |
 | ------- | --------------------------------------------- | -------- |
 | [Lec 14](./Lec14(Mathematics_introduction_%26_NumPy_Foundations).ipynb)   | Mathematics Introduction & NumPy Foundations   |✅ Done  |
-| Lec 15  | NumPy Arrays & Operations                     | ⏳ Planned |
+| [Lec 15](./Lec15(MATRICES_%26_NumPy_Foundations_2).ipynb)  | NumPy Arrays & Operations                     | ⏳ Planned |
 | Lec 16  | NumPy Broadcasting & Vectorization            | ⏳ Planned |
 | Lec 17  | Pandas Basics (Series & DataFrames)           | ⏳ Planned |
 | Lec 18  | Data Cleaning & Preprocessing                 | ⏳ Planned |
