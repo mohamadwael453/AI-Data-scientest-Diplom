@@ -20,8 +20,8 @@ I am currently focused on building strong skills in data analysis, numerical com
 
 | Topic          | Concepts Covered                                              | Status    |
 | -------------- | ------------------------------------------------------------- | --------- |
-| Linear Algebra | Vectors, Matrices, Eigenvalues, Eigenvectors, Transformations | 🔄 In Progress |
-| Statistics     | Probability, Distributions, Mean, Variance, Hypothesis Testing| ⏳ Planned |
+| Linear Algebra | Vectors, Matrices, Eigenvalues, Eigenvectors, Transformations | ✅ Done|
+| Statistics     | Probability, Distributions, Mean, Variance, Hypothesis Testing|🔄 In Progress |
 | Calculus       | Derivatives, Integrals, Gradients, Optimization               | ⏳ Planned |
 
 
